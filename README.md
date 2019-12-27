@@ -2,8 +2,7 @@
 금요일 09:00 - 11:50 건국대학교 동물자원과학과  
 
 --------------------------------------
-![]("head.png")
-
+![]("https://github.com/YoungjunNa/Grassland-and-forage-science/blob/master/head.png?raw=true")
 
 ## Textbook
 - [Forages (6th ed.)](https://www.nhbs.com/forages-volume-1-book). Barnes *et al*. 2003. Iowa State University Press Ames.  
