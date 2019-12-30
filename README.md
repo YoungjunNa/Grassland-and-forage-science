@@ -27,7 +27,7 @@
 ## 팀 조사료 농사
 - 1파티당 4개의 초지단 배정  
 - 벼과🌾, 콩과☘️(or 십자화과), 허브류🌿, 채소🥬(엽채소, 근채소 또는 과채)  
-- 한학기 동안 실습 진행 후 관찰 레포트 제출(10 points)  
+- 한학기 동안 실습 진행 후 관찰 레포트 제출(15 points)  
 
 <img src="forages.png" align="center" />
 
@@ -74,5 +74,5 @@
 
 --------------------------------------
 ## World Map
-<img src="lacation.png" align="center" />
+<img src="location.png" align="center" />
 
