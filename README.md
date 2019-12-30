@@ -101,7 +101,7 @@
 --------------------------------------
 ## 명예의 전당  
 ### 그랜드초지마스터  
-- 제 1대 정수민(57기)  
+- 제 1대 정수민(57기) :dragon_face::woman_farmer::racehorse::baseball::eyes::crocodile::trophy::fire::sparkles::reminder_ribbon::couplekiss_man_woman: :name_badge::ring::angel::male_zombie::innocent::mask::kissing_heart::feet:   
 
 ### 동자민요전수자   
 - 제 1대 56기 김주호(56기) 안병규(56기)  
