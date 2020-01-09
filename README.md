@@ -1,4 +1,4 @@
-# 초지 및 사료작물학(Grass and Forage Science)
+# 초지 및 사료작물학(Grassland and Forage Science)
 금요일 09:00 - 11:50 건국대학교 동물자원과학과  
 
 --------------------------------------
