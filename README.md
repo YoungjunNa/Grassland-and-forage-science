@@ -2,8 +2,9 @@
 금요일 09:00 - 11:50 건국대학교 동물자원과학과  
 
 --------------------------------------
-<img src="head.png" align="center" />
+<img src="head.png" align="center" />  
 
+[:notes:](https://youtu.be/6xq4sc_i8S0)
 
 ## Textbook
 - [Forages (6th ed.)](https://www.nhbs.com/forages-volume-1-book). Barnes *et al*. 2003. Iowa State University Press Ames.  
