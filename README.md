@@ -4,7 +4,7 @@
 --------------------------------------
 <img src="head.png" align="center" />  
 
-[:notes:](https://youtu.be/6xq4sc_i8S0)
+<a href="https://youtu.be/6xq4sc_i8S0/" target="_blank">:notes:</a>
 
 ## Textbook
 - [Forages (6th ed.)](https://www.nhbs.com/forages-volume-1-book). Barnes *et al*. 2003. Iowa State University Press Ames.  
