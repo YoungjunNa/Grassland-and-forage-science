@@ -26,7 +26,7 @@
 --------------------------------------
 ## 주차별 강의일정
 0. <a href="https://www.youtube.com/watch?v=p2gonkk2pvI" target="_blank">오프닝</a>  
-1. 오리엔테이션   
+1. 오리엔테이션 + [초지포 가는길](https://youtu.be/hqUVjiEXsWc)   
 2. (초지포 정리 및 퇴비살포)  
 3. 종자발아 + (발아실험)  
 4. 풀사료평가 + (사료작물 파종)  
